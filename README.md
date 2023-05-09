@@ -1,14 +1,47 @@
 # hank-junior
 This is Hank Jr.  This lil buddy is my digital assistant.
 
+# Areas of utility
+
+- AI assistant workflows
+  - (e.g. similar to [ShellGPT](https://github.com/TheR1D/shell_gpt))
+  - TODO management
+  - scheduling
+  - trips + any admin stuff automation
+  - data analysis
+  - code gen
+  - ...
+- Images
+  - [EditAnything](https://github.com/sail-sg/EditAnything)
+  - Midjourney
+- Text generation
+  - e.g. ChatGPT 4 to write business plan
+- Desktop Apps
+  - shell
+    - work automation (e.g. command for SSH-ing into env)
+  - password auto copy
+  - Notes app automation
+  - Browser automation
+    - bookmarks (e.g. check dead links and remove)
+    - trips + any admin stuff automation
+- phone apps
+  - iphone app for counting / recording (last time cup of coffee, etc)
+- AR
+  - golf swing analysis
+- Finance
+  - stocks, options monitor
+- etc
+
 
 # TODOs
 
 - [X] Setup JXA + VScode to "hello world" output
-- [ ] Create Alfred extension (for interacting with Chrome)
+- [ ] Create Chrome Tabs Alfred extension
     - [ ] FUZZY search. Go to selected chrome tab (after listing)
     - [ ] Dedup tabs.
     - [ ] Close tabs by keywords.
+- [ ] Create Dashlane-Chrome Alfred extension (fetch passwords by fuzzy search)
+    - [ ] Since NO dashlane desktop app -> MUST get info from chrome extension
 
 # Scripts
 
